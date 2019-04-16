@@ -1,0 +1,19 @@
+.mainContent {
+    align-items: 'center';
+    flex-direction: 'row';
+    justify-content: 'flex-start';
+    display: 'flex';
+    border: '1px';
+  }
+
+.contentStyle{
+    flex : 1;
+    height : 200;
+    width : "50%";
+  }
+
+.imageContainerStyle {
+    flex : 1;
+    height: 200;
+    width: "50%";
+  }
